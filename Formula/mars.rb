@@ -1,8 +1,8 @@
 class Mars < Formula
   desc "Luther Systems infrastructure management tool"
   homepage "https://github.com/luthersystems/mars"
-  url "https://raw.githubusercontent.com/luthersystems/mars/v0.83.1/mars_macos.sh"
-  sha256 "2c33bf0a644ed443c6e767a624b931c948d123da4e0bacf17d2cb09f0e6c84ae"
+  url "https://raw.githubusercontent.com/luthersystems/mars/v0.84.1/mars_macos.sh"
+  sha256 "36a20625a07f3e9d5d5dd2f47409e7d46b97722091df6aef105834f12bc4a601"
   head "https://raw.githubusercontent.com/luthersystems/mars/main/mars_macos.sh"
   depends_on :macos
 
